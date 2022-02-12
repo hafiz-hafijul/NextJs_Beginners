@@ -1,0 +1,1 @@
+This getStaticProps() all this here.
